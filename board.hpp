@@ -7,7 +7,7 @@
 constexpr int BOARD_SIZE_UP = 8;   // Number of squares along one side of the chess board
 constexpr int BOARD_SIZE_RIGHT = 8; // Number of squares along the other side of the chess board
 const std::string STARTING_BOARD_STATE = "RNBQKBNRPPPPPPPP################################pppppppprnbqkbnr0"; // Initial board state
-
+ 
 /* Class definition for the chess board */
 class board 
 { 
